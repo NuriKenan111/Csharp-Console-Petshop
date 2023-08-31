@@ -1,0 +1,15 @@
+/Users/kenan/Desktop/C#Task/C#Task/bin/Debug/net7.0/C#Task
+/Users/kenan/Desktop/C#Task/C#Task/bin/Debug/net7.0/C#Task.deps.json
+/Users/kenan/Desktop/C#Task/C#Task/bin/Debug/net7.0/C#Task.runtimeconfig.json
+/Users/kenan/Desktop/C#Task/C#Task/bin/Debug/net7.0/C#Task.dll
+/Users/kenan/Desktop/C#Task/C#Task/bin/Debug/net7.0/C#Task.pdb
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.csproj.AssemblyReference.cache
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.AssemblyInfoInputs.cache
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.AssemblyInfo.cs
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.csproj.CoreCompileInputs.cache
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.dll
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/refint/C#Task.dll
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.pdb
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/C#Task.genruntimeconfig.cache
+/Users/kenan/Desktop/C#Task/C#Task/obj/Debug/net7.0/ref/C#Task.dll
